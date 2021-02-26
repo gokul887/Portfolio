@@ -1,5 +1,5 @@
-Name: Gokul Sivadasan //
-Description:
+Name: Gokul Sivadasan  
+Description:  
   A programming portfolio website with HTML, CSS, Javascript and ReactJs
   
 Running Instructions:
